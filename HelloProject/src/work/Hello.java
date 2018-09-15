@@ -2,9 +2,9 @@ package work;
 
 public class Hello{
 	public static void main(String[] args){
-		Integer a = 23, b = 2, c;
+		Double a = 2.32, b = 6.2, c;
 		c = a + b;
-		int val = c;
+		double val = c;
 		System.out.println("Hello World!");
 		System.out.println("Answer: " + val);
 	}
