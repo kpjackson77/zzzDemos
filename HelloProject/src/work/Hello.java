@@ -7,5 +7,6 @@ public class Hello{
 		double val = c;
 		System.out.println("Hello World!");
 		System.out.println("Answer: " + val);
+		System.out.println(a + " * " + b + " = " + val);
 	}
 }
